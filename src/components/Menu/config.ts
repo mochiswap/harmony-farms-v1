@@ -102,6 +102,11 @@ const config: MenuEntry[] = [
     icon: 'TicketIcon',
     href: 'https://docs.mochiswap.io/',
   },
+  {
+    label: 'Bridge',
+    icon: 'IfoIcon',
+    href: 'https://bridge.harmony.one/busd',
+  }
 ]
 
 export default config
